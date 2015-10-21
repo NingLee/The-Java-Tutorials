@@ -4,4 +4,4 @@
 
 Java语言设计之初就支持并发编程，Java语言和Java类库都提供基本的并发支持。从5.0版本开始，Java平台提供了高级别的并发API。本教程介绍了平台的基本API支持，并且总结了java.util.concurrent包里的一些高级别API。
 
-[进程和线程](process_and_thread.md)
+[下一节:进程和线程](process_and_thread.md)
